@@ -84,13 +84,6 @@
     "created_at": "2021-04-18T12:42:32.331Z"
   },
   {
-    "uid": "827548537881493575",
-    "tag": "Deleted User c5d3f1e0#9167",
-    "avatar": null,
-    "bot": false,
-    "created_at": "2021-04-02T14:22:26.539Z"
-  },
-  {
     "uid": "847544541845258330",
     "tag": "idks#0001",
     "avatar": "a_2eedf5aba058925137960d5871ce2eda",
@@ -98,32 +91,11 @@
     "created_at": "2021-05-27T18:39:25.392Z"
   },
   {
-    "uid": "384420363800412161",
-    "tag": "Deleted User fc6c14ec#8897",
-    "avatar": null,
-    "bot": false,
-    "created_at": "2017-11-26T19:09:16.915Z"
-  },
-  {
     "uid": "623208070171852844",
     "tag": "laura#6543",
     "avatar": "0aaa55b5590f7304d431ce9f85a476e8",
     "bot": false,
     "created_at": "2019-09-16T17:26:22.575Z"
-  },
-  {
-    "uid": "559889492043890688",
-    "tag": "Deleted User 24313ae1#7647",
-    "avatar": null,
-    "bot": false,
-    "created_at": "2019-03-26T00:00:57.147Z"
-  },
-  {
-    "uid": "787602728602959922",
-    "tag": "Jacobb626#0001",
-    "avatar": "af792c6f161efc85e296662d3e6cca84",
-    "bot": false,
-    "created_at": "2020-12-13T08:52:03.450Z"
   },
   {
     "uid": "787419358334681118",
@@ -138,13 +110,6 @@
     "avatar": "fc2146baf42d5f5b3de00d0dcba448e8",
     "bot": false,
     "created_at": "2020-03-15T15:23:30.504Z"
-  },
-  {
-    "uid": "750523903868272671",
-    "tag": "Deleted User 7ff1d12e#5889",
-    "avatar": null,
-    "bot": false,
-    "created_at": "2020-09-02T01:14:02.742Z"
   },
   {
     "uid": "517586951898136596",
@@ -189,32 +154,11 @@
     "created_at": "2021-02-22T21:57:13.714Z"
   },
   {
-    "uid": "810566167592173659",
-    "tag": "Deleted User afc89551#5327",
-    "avatar": null,
-    "bot": false,
-    "created_at": "2021-02-14T17:40:33.945Z"
-  },
-  {
-    "uid": "722632203187519551",
-    "tag": "Deleted User 18f9247a#0887",
-    "avatar": null,
-    "bot": false,
-    "created_at": "2020-06-17T02:02:23.097Z"
-  },
-  {
     "uid": "803607339240128513",
     "tag": "corona extra abuser#8551",
     "avatar": "734c7fe8ecb6491cd062c26931225adf",
     "bot": false,
     "created_at": "2021-01-26T12:48:39.977Z"
-  },
-  {
-    "uid": "806429517135872010",
-    "tag": "Deleted User 3c4f41e9#2560",
-    "avatar": null,
-    "bot": false,
-    "created_at": "2021-02-03T07:42:59.621Z"
   },
   {
     "uid": "803444654564442163",
@@ -285,13 +229,6 @@
     "avatar": "e1374cc0d9cbcf36f1759dad46b55846",
     "bot": false,
     "created_at": "2020-12-14T19:01:02.246Z"
-  },
-  {
-    "uid": "805838292666417155",
-    "tag": "Deleted User d138d5db#1201",
-    "avatar": null,
-    "bot": false,
-    "created_at": "2021-02-01T16:33:40.723Z"
   },
   {
     "uid": "789300449479229441",
@@ -392,13 +329,6 @@
     "created_at": "2019-06-05T20:42:40.077Z"
   },
   {
-    "uid": "259092726748807168",
-    "tag": "Deleted User 536ad5e8#5622",
-    "avatar": null,
-    "bot": false,
-    "created_at": "2016-12-15T23:01:59.767Z"
-  },
-  {
     "uid": "525790868460929036",
     "tag": "! M#0487",
     "avatar": "5b26b7acc8f3206157632230ffdcc7b0",
@@ -411,13 +341,6 @@
     "avatar": "a387270df6c3cff8e6e95384e0ecb8b5",
     "bot": false,
     "created_at": "2016-07-24T19:18:25.050Z"
-  },
-  {
-    "uid": "660470921471066124",
-    "tag": "Deleted User 14273083#7874",
-    "avatar": null,
-    "bot": false,
-    "created_at": "2019-12-28T13:15:38.635Z"
   },
   {
     "uid": "641711032443863090",
@@ -469,13 +392,6 @@
     "created_at": "2021-02-28T18:15:01.519Z"
   },
   {
-    "uid": "781956838559449118",
-    "tag": "Deleted User ccde7617#7391",
-    "avatar": null,
-    "bot": false,
-    "created_at": "2020-11-27T18:57:18.368Z"
-  },
-  {
     "uid": "526290187664490497",
     "tag": "simba#0001",
     "avatar": "14fd6f57c7bff5c7d5bd683f7dfe1a05",
@@ -495,13 +411,6 @@
     "avatar": "9591d34a278eab700b532223eb80b1bb",
     "bot": false,
     "created_at": "2020-11-05T15:13:28.632Z"
-  },
-  {
-    "uid": "810227210316152838",
-    "tag": "Deleted User 28da16fe#7822",
-    "avatar": null,
-    "bot": false,
-    "created_at": "2021-02-13T19:13:40.233Z"
   },
   {
     "uid": "806688398752350289",
@@ -574,25 +483,11 @@
     "created_at": "2021-04-24T18:31:33.530Z"
   },
   {
-    "uid": "727140667691630644",
-    "tag": "Deleted User 682d2ee9#7799",
-    "avatar": null,
-    "bot": false,
-    "created_at": "2020-06-29T12:37:24.798Z"
-  },
-  {
     "uid": "698881641195634758",
     "tag": "oneslasher#6703",
     "avatar": "e94fa9391b7016babde0631d2e1285df",
     "bot": false,
     "created_at": "2020-04-12T13:06:07.854Z"
-  },
-  {
-    "uid": "789340074243915796",
-    "tag": "Deleted User 5bcbdff5#4825",
-    "avatar": null,
-    "bot": false,
-    "created_at": "2020-12-18T03:55:38.929Z"
   },
   {
     "uid": "474257497784320022",
@@ -635,13 +530,6 @@
     "avatar": "5396302f38d9497790d4ea519a3a80ea",
     "bot": false,
     "created_at": "2021-04-21T07:58:47.765Z"
-  },
-  {
-    "uid": "798952343819124776",
-    "tag": "Deleted Mess#8513",
-    "avatar": "6a91e0d8d4fa3dc48fdeba362568d154",
-    "bot": false,
-    "created_at": "2021-01-13T16:31:22.583Z"
   },
   {
     "uid": "876001318899183677",
